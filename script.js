@@ -21,3 +21,5 @@ function addNewEntry() {
 
 // Add an event listener to the button
 newEntryButton.addEventListener("click", addNewEntry);
+
+THE END
