@@ -1,3 +1,3 @@
 # 50-day-journal-app
 Write up is pending *
-Test under water curremt
+Test under water current
