@@ -17,4 +17,4 @@ Approche :
 
 Un sélecteur de date pour afficher/modifier les entrées précédentes.
 Enregistrement des entrées dans une base de données SQLite.
-Optionnel : Exporter le journal au format PDF..
+Optionnel : Exporter le journal au format PDF
