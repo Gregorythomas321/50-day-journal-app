@@ -5,7 +5,7 @@ Technologie : Python, fichiers JSON/TXT pour le stockage
 Approch:
 
 L'utilisateur exécute le script quotidiennement et saisit son entrée de journal
-Les données sont stockées dans un fichier JSON local (journal.json).
+Les données sont stockées dans un fichier JSON local (journal.json)..
 Les entrées peuvent être récupérées ou modifiées.
 
 
