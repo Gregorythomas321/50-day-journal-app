@@ -6,7 +6,7 @@ Approch:.
 
 L'utilisateur exécute le script quotidiennement et saisit son entrée de journal
 Les données sont stockées dans un fichier JSON local (journal.json)..
-Les entrées peuvent être récupérées ou modifiées.
+Les entrées peuvent être récupérées ou modifiées
 
 
 2. Application de bureau avec interface graphique (Tkinter/PyQt)
