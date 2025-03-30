@@ -11,7 +11,7 @@ Les entrées peuvent être récupérées ou modifiées
 
 2. Application de bureau avec interface graphique (Tkinter/PyQt)
 Description :
-Une application de bureau avec une boîte de texte pour saisir les entrées du journal.
+Une application de bureau avec une boîte de texte pour saisir les entrées du journal..
 Technologie : Python + Tkinter (ou PyQt pour une interface plus avancée).
 Approche :
 
