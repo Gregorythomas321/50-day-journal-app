@@ -1,5 +1,5 @@
 1. Application simple basée sur des fichiers locaux (Python)..
-Description 
+Description.
 Une application en ligne de commande qui enregistre les entrées du journal sous forme de fichiers texte..
 Technologie : Python, fichiers JSON/TXT pour le stockage.
 Approche.
